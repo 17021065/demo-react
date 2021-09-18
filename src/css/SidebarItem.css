@@ -1,0 +1,16 @@
+.active, .active:hover {
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.item {
+    padding: 5px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+}
+
+.item:hover {
+    background-color: #a6a6a6;
+}
